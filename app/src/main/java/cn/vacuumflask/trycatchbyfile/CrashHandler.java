@@ -1,4 +1,4 @@
-package com.example.administrator.trycatchbyfile;
+package cn.vacuumflask.trycatchbyfile;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
@@ -24,6 +24,7 @@ import java.util.Map;
 
 /**
  * Created by Administrator on 2016/9/1 0001.
+ *
  */
 public class CrashHandler implements Thread.UncaughtExceptionHandler {
 

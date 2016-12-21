@@ -1,9 +1,10 @@
-package com.example.administrator.trycatchbyfile;
+package cn.vacuumflask.trycatchbyfile;
 
 import android.app.Application;
 
 /**
  * Created by Administrator on 2016/9/2 0002.
+ * 全局初始化
  */
 public class CrashApplication extends Application {
     @Override

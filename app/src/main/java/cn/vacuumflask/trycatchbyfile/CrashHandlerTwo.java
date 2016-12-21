@@ -1,4 +1,4 @@
-package com.example.administrator.trycatchbyfile;
+package cn.vacuumflask.trycatchbyfile;
 
 
 import android.content.Context;
@@ -6,7 +6,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
-import android.content.res.Resources;
 import android.net.Uri;
 import android.os.Environment;
 import android.os.Looper;
@@ -16,12 +15,11 @@ import android.util.Log;
 import android.view.WindowManager;
 import android.widget.Toast;
 
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
-import static com.example.administrator.trycatchbyfile.R.*;
 
 /**
  * Created by Administrator on 2016/9/2 0002.

@@ -1,4 +1,4 @@
-package com.example.administrator.trycatchbyfile;
+package cn.example.administrator.trycatchbyfile;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
